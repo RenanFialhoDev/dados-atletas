@@ -22,6 +22,7 @@ A classe deverá receber os seguintes atributos:
 - peso
 - altura
 - notas
+
 A classe deverá possuir os seguintes métodos:
 
 - calculaCategoria(), para calcular a categoria do atleta;
